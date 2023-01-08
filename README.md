@@ -170,13 +170,3 @@ yarn build
 1. 使用reactiveState部分代替vuex
 2. 详尽的文档
 3. antv最新版(3.2.14)已经可以支持通过css变量进行动态主题更换,该项目暂未使用该特性实现
-## 浏览器兼容
-
-Edge Chrome 等现代浏览器,目前只测试过Chrome,没有Mac所以Safari没有测试
-
-##### 落魄前端,在线要饭
-
-<img src="https://gitee.com/Onces/images/raw/master/money.png" width=200/>
-
-下次一定?给个Star也行啊
-# crm_zupu_vue3
